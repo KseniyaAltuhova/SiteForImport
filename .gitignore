@@ -1,0 +1,12 @@
+# ignore a single file
+Thumbs.db
+
+# ignore a single file
+.DS_Store
+
+# ignore an entire directory
+/tmp/
+
+# ignore a file type
+*_old
+*_backup
